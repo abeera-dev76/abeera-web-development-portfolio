@@ -1,7 +1,7 @@
 # abeera-web-development-portfolio
 My name is Abeera Imtiaz, and I am an aspiring WordPress Developer and Web Designer passionate about creating modern, responsive, and user-friendly websites. This repository showcases my learning journey, web design projects, and practical experience in website development.
 <br>
-🌟 About This Repository
+🌟 About me
 
 The purpose of this repository is to present my web development skills, creative ideas, and projects in one place. It serves as my professional portfolio, where I can document my progress, demonstrate my abilities, and share my work with potential clients, recruiters, and fellow developers.
 
